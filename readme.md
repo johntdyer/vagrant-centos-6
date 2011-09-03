@@ -8,7 +8,8 @@ Vagrant Centos 6 Box
 *Development Tools
 
 This box is setup for vagrant, to install simple run the following:
+
     $ gem install vagrant
-    $ vagrant box add centos-6 https://github.com/krumpt/vagrant-centos-6/raw/centos-6.box
+    $ vagrant box add centos-6 https://vagrant-centos-6.s3.amazonaws.com/centos-6.box
     $ vagrant init centos-6
     $ vagrant up
