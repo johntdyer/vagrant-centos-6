@@ -1,11 +1,11 @@
 Vagrant Centos 6 Box
 ====================
 
-*Ruby 1.9.2
-*RVM
-*Chef 
-*VirtualBox Guest Additions
-*Development Tools
+* Ruby 1.9.2
+* RVM
+* Chef 
+* VirtualBox Guest Additions
+* Development Tools
 
 This box is setup for vagrant, to install simple run the following:
 
